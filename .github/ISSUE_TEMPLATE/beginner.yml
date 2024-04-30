@@ -12,11 +12,10 @@ body:
       value: |
         ## Description
         Please provide the following basic details to help us understand your background and context better.
-          - **Name:**
-          - **GitHub Username:**
-          - **LinkedIn Profile:**
-          - **College/University:**
-          _If you feel comfortable, you can also provide additional information such as your area of expertise or any specific information you'd like to share._
+          - **Name: Deepak Yadav
+          - **GitHub Username:Dexter829
+          - **LinkedIn Profile: https://www.linkedin.com/in/deepak-yadav-32614627a/
+          - **College/University:KIIT Bhubaneshwar, OdishaI am passionate about solving real-world problems using my imagination and skillset.
 
 
   - type: textarea
@@ -25,7 +24,7 @@ body:
       required: true
     attributes:
       label: Goals
-      description: List the goals of the feature.
+      desdescription: List the goals of the feature.
       value: |
         - [ ] Adding your basic details
 
